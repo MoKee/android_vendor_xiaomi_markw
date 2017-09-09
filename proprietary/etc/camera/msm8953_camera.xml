@@ -222,7 +222,7 @@ LensInfo : Information of the lens present in the module.
     </CSIInfo>
     <LensInfo>
       <FocalLength>1.98</FocalLength>
-      <FNumber>2.4</FNumber>
+      <FNumber>2.2</FNumber>
       <TotalFocusDistance>1.2</TotalFocusDistance>
       <HorizontalViewAngle>68.0</HorizontalViewAngle>
       <VerticalViewAngle>51.0</VerticalViewAngle>
@@ -245,7 +245,7 @@ LensInfo : Information of the lens present in the module.
     </CSIInfo>
     <LensInfo>
       <FocalLength>1.98</FocalLength>
-      <FNumber>2.4</FNumber>
+      <FNumber>2.2</FNumber>
       <TotalFocusDistance>1.2</TotalFocusDistance>
       <HorizontalViewAngle>68.0</HorizontalViewAngle>
       <VerticalViewAngle>51.0</VerticalViewAngle>
